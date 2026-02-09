@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moalarbi.github.io/takwin-line-site/sitemap.xml
